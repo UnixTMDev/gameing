@@ -1,7 +1,6 @@
 1.21-throwable-fluids-3.0.0.jar
 2032-world-height-1.1.jar
 BiomesOPlenty-fabric-1.21-21.0.0.15.jar
-Eternal Jesus v1.1 - 0.15.11.jar
 ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar
 GlitchCore-fabric-1.21-2.0.0.3.jar
 HangGlider-v21.0.0-1.21-Fabric.jar
