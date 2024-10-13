@@ -35,7 +35,6 @@ modmenu-11.0.2.jar
 mods.txt
 mostructures-fabric-1.5.0+1.21.jar
 naturespirit-1.6.2-1.21.jar
-originfur-1.0.11-maybeworks.jar
 origins-kitsune-1.2.jar
 owo-lib-0.12.15+1.21.jar
 plasmovoice-fabric-1.21-2.0.10.jar
