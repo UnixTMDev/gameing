@@ -11,7 +11,9 @@ PortableHole-v21.0.0-1.21-Fabric.jar
 PuzzlesLib-v21.0.28-1.21-Fabric.jar
 TerraBlender-fabric-1.21-4.0.0.2.jar
 UndergroundBunkers-1.0.4-1.21.x-fabric.jar
+YetAnotherConfigLib-3.5.0+1.21-fabric.jar
 architectury-13.0.8-fabric.jar
+azurelib-fabric-1.21-2.3.15.jar
 backrooms-1.0.0.jar
 balm-fabric-1.21.1-21.0.20.jar
 cc-tweaked-1.21-fabric-1.112.0.jar
@@ -22,7 +24,6 @@ craftedcore-5.5.jar
 custom-portals-3.6.1-1.21.jar
 deathlog-0.4.1+1.21.jar
 entropys-chosen-3.4.3.jar
-extraorigins-1.20-13.jar
 fabric-api-0.102.0+1.21.jar
 flowermimics-1.21.1-2.0.jar
 forgivingvoid-fabric-1.21.1-21.1.1.jar
@@ -31,12 +32,13 @@ keep-some-inventory-v2.0.1.jar
 lightwithin-1.1.3+1.21.jar
 livingthings-fabric-1.21.1-2.1.2.jar
 modmenu-11.0.2.jar
+mods.txt
 mostructures-fabric-1.5.0+1.21.jar
 naturespirit-1.6.2-1.21.jar
 originfur-1.0.11-maybeworks.jar
 origins-kitsune-1.2.jar
+owo-lib-0.12.15+1.21.jar
 plasmovoice-fabric-1.21-2.0.10.jar
-pv-addon-replaymod-1.21-2.1.1.jar
 replaymod-1.21-2.6.19.jar
 scriptor-1.3.1-1.21-fabric-sgd.jar
 sodium-fabric-0.5.11+mc1.21.jar
